@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+* {
+	background-color: slategray;
+	color: white;
+}
+
+table {
+	background-color: slategray;
+} 
+
+a {
+	color: white;
+}
